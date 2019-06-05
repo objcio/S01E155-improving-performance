@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommonMark",
+        "repositoryURL": "https://github.com/objcio/commonmark-swift",
+        "state": {
+          "branch": "swift-5",
+          "revision": "1f5d4747e914fd6d354d1ea85d6ecaed76445c05",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftSyntax",
+        "repositoryURL": "https://github.com/apple/swift-syntax.git",
+        "state": {
+          "branch": null,
+          "revision": "f20c0bcbfb4b07e107c9851350217cb2217f0cb4",
+          "version": "0.40200.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
